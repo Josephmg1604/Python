@@ -1,0 +1,101 @@
+Cédula;Nombre;Apellido;Semestre;Materia;Calificación
+982736451;Joel;González;I;Matemáticas;7,2
+923874652;Javier;Mendoza;I;Matemáticas;7
+959853877;Steven;Salazar;I;Matemáticas;6,9
+934267289;David;Díaz;I;Matemáticas ;7
+919988045;Enrique;Villón;I;Matemáticas;7,2
+982736451;Joel;González;I;Inglés;7,1
+923874652;Javier;Mendoza;I;Inglés;9,5
+959853877;Steven;Salazar;I;Inglés;10
+934267289;David;Díaz;I;Inglés;10
+919988045;Enrique;Villón;I;Inglés;10
+982736451;Joel;González;I;Lenguaje;10
+923874652;Javier;Mendoza;I;Lenguaje;9,5
+959853877;Steven;Salazar;I;Lenguaje;9,5
+934267289;David;Díaz;I;Lenguaje;10
+919988045;Enrique;Villón;I;Lenguaje;10
+982736451;Joel;González;II;Música;10
+923874652;Javier;Mendoza;II;Música;10
+959853877;Steven;Salazar;II;Música;9,5
+934267289;David;Díaz;II;Música;9,5
+919988045;Enrique;Villón;II;Música;10
+982736451;Joel;González;II;Programación;10
+923874652;Javier;Mendoza;II;Programación;10
+959853877;Steven;Salazar;II;Programación;10
+934267289;David;Díaz;II;Programación;9,5
+919988045;Enrique;Villón;II;Programación;9,5
+982736451;Joel;González;II;Dibujo;10
+923874652;Javier;Mendoza;II;Dibujo;10
+959853877;Steven;Salazar;II;Dibujo;10
+934267289;David;Díaz;II;Dibujo;10
+919988045;Enrique;Villón;II;Dibujo;9,5
+982736451;Joel;González;III;Economía;9,5
+923874652;Javier;Mendoza;III;Economía;10
+959853877;Steven;Salazar;III;Economía;10
+934267289;David;Díaz;III;Economía;10
+919988045;Enrique;Villón;III;Economía;10
+982736451;Joel;González;III;Historia;9,5
+923874652;Javier;Mendoza;III;Historia;7,2
+959853877;Steven;Salazar;III;Historia;7
+934267289;David;Díaz;III;Historia;6,9
+919988045;Enrique;Villón;III;Historia;7
+982736451;Joel;González;III;Metodologia;7,2
+923874652;Javier;Mendoza;III;Metodologia;7,1
+959853877;Steven;Salazar;III;Metodologia;9,5
+934267289;David;Díaz;III;Metodologia;10
+919988045;Enrique;Villón;III;Metodologia;10
+982736451;Joel;González;IV;Contabilidad;10
+923874652;Javier;Mendoza;IV;Contabilidad;10
+959853877;Steven;Salazar;IV;Contabilidad;9,5
+934267289;David;Díaz;IV;Contabilidad;9,5
+919988045;Enrique;Villón;IV;Contabilidad;10
+982736451;Joel;González;IV;Computación;10
+923874652;Javier;Mendoza;IV;Computación;10
+959853877;Steven;Salazar;IV;Computación;10
+934267289;David;Díaz;IV;Computación;9,5
+919988045;Enrique;Villón;IV;Computación;9,5
+982736451;Joel;González;IV;Emprendimiento;10
+923874652;Javier;Mendoza;IV;Emprendimiento;10
+959853877;Steven;Salazar;IV;Emprendimiento;10
+934267289;David;Díaz;IV;Emprendimiento;10
+919988045;Enrique;Villón;IV;Emprendimiento;9,5
+982736451;Joel;González;V;Biología;9,5
+923874652;Javier;Mendoza;V;Biología;10
+959853877;Steven;Salazar;V;Biología;10
+934267289;David;Díaz;V;Biología;10
+919988045;Enrique;Villón;V;Biología;10
+982736451;Joel;González;V;Plataformas;9,5
+923874652;Javier;Mendoza;V;Plataformas;9,5
+959853877;Steven;Salazar;V;Plataformas;10
+934267289;David;Díaz;V;Plataformas;10
+919988045;Enrique;Villón;V;Plataformas;10
+982736451;Joel;González;V;Estadística;10
+923874652;Javier;Mendoza;V;Estadística;9,5
+959853877;Steven;Salazar;V;Estadística;7,2
+934267289;David;Díaz;V;Estadística;7
+919988045;Enrique;Villón;V;Estadística;6,9
+982736451;Joel;González;VI;Negocios internacionales;7
+923874652;Javier;Mendoza;VI;Negocios internacionales;7,2
+959853877;Steven;Salazar;VI;Negocios internacionales;7,1
+934267289;David;Díaz;VI;Negocios internacionales;9,5
+919988045;Enrique;Villón;VI;Negocios internacionales;10
+982736451;Joel;González;VI;Geografía;10
+923874652;Javier;Mendoza;VI;Geografía;10
+959853877;Steven;Salazar;VI;Geografía;10
+934267289;David;Díaz;VI;Geografía;9,5
+919988045;Enrique;Villón;VI;Geografía;9,5
+982736451;Joel;González;VI;Formación Cívica y Ética ;10
+923874652;Javier;Mendoza;VI;Formación Cívica y Ética ;10
+959853877;Steven;Salazar;VI;Formación Cívica y Ética ;10
+934267289;David;Díaz;VI;Formación Cívica y Ética ;10
+919988045;Enrique;Villón;VI;Formación Cívica y Ética ;9,5
+982736451;Joel;González;VII;Química;9,5
+923874652;Javier;Mendoza;VII;Química;10
+959853877;Steven;Salazar;VII;Química;10
+934267289;David;Díaz;VII;Química;10
+919988045;Enrique;Villón;VII;Química;10
+982736451;Joel;González;VII;Tecnología;9,5
+923874652;Javier;Mendoza;VII;Tecnología;9,5
+959853877;Steven;Salazar;VII;Tecnología;10
+934267289;David;Díaz;VII;Tecnología;10
+919988045;Enrique;Villón;VII;Tecnología;10
